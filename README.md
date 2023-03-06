@@ -26,3 +26,4 @@ Criar uma interface de usuário intuitiva e de fácil utilização para que os u
 Utilizar a biblioteca React para criar componentes reutilizáveis e facilitar a manutenção do código.
 Utilizar o Vite para acelerar o desenvolvimento e a compilação do código.
 
+# Deploy: https://cine-explorer.vercel.app/
