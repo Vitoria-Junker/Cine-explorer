@@ -1,0 +1,23 @@
+.container .title {
+    color:#efe3ef;
+    font-size: 20px;
+    text-align: initial;
+    padding-left: 5rem;
+    font-weight: 300;
+    text-shadow: 4px 4px 8px rgba(0,0,0,0.6);
+}
+
+.title .query-text {
+    color: #f7d354;
+   
+}
+
+.movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap:1rem;
+    justify-content: space-between;
+    padding: 1rem 5rem ;
+    max-width: 1400px;
+    margin: 0 auto;
+}

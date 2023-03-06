@@ -1,0 +1,42 @@
+.movie-card {
+    width: 20%;
+    color: #fff;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: transparent;
+    padding: 1rem;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.6);
+    transition: transform 0.2s ease-in-out;
+}
+
+.movie-card:hover {
+    transform: scale(1.1);
+  }
+
+img {
+     max-width: 100%;
+}
+
+img, p, h2 {
+    margin-bottom: 1rem;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2, p {
+    color:#efe3ef;
+}
+
+svg {
+    color: #f7d354;
+}
+ 
+
+.movie-card a:hover {
+    background-color: transparent;
+    color: #f7d354;
+}
